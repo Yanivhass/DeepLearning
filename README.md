@@ -23,6 +23,6 @@ auto-diff, as well as CNNs such as ResNet.
 -CNNs, ResNet  
 
 ## HW3
--RNN
--VAE
--GAN
+-RNN  
+-VAE  
+-GAN  
