@@ -21,3 +21,8 @@ auto-diff, as well as CNNs such as ResNet.
 -Dropout  
 -Binary Classification with MLP  
 -CNNs, ResNet  
+
+## HW3
+-RNN
+-VAE
+-GAN
