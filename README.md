@@ -21,6 +21,7 @@ auto-diff, as well as CNNs such as ResNet.
 -Dropout  
 -Binary Classification with MLP  
 -CNNs, ResNet  
+-CIFAR 10 competition - acheived 90% accuracy
 
 ## HW3
 -RNN  
